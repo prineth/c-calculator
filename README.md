@@ -1,1 +1,1 @@
-# c-calculator
+#Programing C calculator
