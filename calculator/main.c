@@ -39,21 +39,21 @@ int main()
 //
 //int main()
 //{
-//    int num1;
-//    int num2;
+//    int number1;
+//    int number2;
 //    char 'opr';
 //
 //    printf("Enter number 01 : \n");
-//    scanf("%d",&num1);
+//    scanf("%d",&number1);
 //
 //    printf("Enter Number 02 :  \n");
-//    scanf("%d",&num2);
+//    scanf("%d",&number2);
 //
 //    printf("Your operator : \n");
 //    scanf("%c",&'opr');
 //
 //    if ('opr'== '+')
-//        sum = num1+num2;
+//        sum = number1+number2;
 //        printf("Sum is: %d", sum);
 //
 //
