@@ -8,6 +8,7 @@ int main()
 //    scanf("%c", &operator);
 //    printf("insert two operands: ");
 //    scanf("%lf %lf", &first, &second);
+    printf("%f");
 //
 //    switch (operator)
 //    {
@@ -133,10 +134,10 @@ int main()
  //   Vector Sum
 //    printf("Vector Sum is \n");
 //    for(i=0;i<5;i++)
-//    {
-//         W[i]=U[i]+V[i];
-//         printf("%d \n",W[i]);
-//    }
+   {
+        W[i]=U[i]+V[i];
+         printf("%d \n",W[i]);
+    }
     //Vector Product
     printf("Vector Product is \n");
     for(i=0;i<5;i++)
